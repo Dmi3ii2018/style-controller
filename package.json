@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/Dmi3ii2018/style-controller/src/index.html",
   "name": "color-range",
   "version": "1.0.0",
   "description": "",
@@ -12,7 +13,8 @@
   "devDependencies": {
     "@babel/cli": "^7.13.0",
     "@babel/core": "^7.13.8",
-    "@babel/preset-env": "^7.13.9"
+    "@babel/preset-env": "^7.13.9",
+    "gh-pages": "^3.1.0"
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1"
